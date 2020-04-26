@@ -1,0 +1,84 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Sudha",
+                "role" : "Multi skill Trainer",
+                "email" : "sudha.s@apssdc.in",
+                "mobile": "+91 9642294614"
+            },
+            "education":[
+                {
+                    "degree":"Graduation",
+                    "institution": "B.TECH – Electronics and Communication Engineering FROM Chaitanya Bharathi Institute of Technology College In 2016apa"
+                },
+                {
+                    "degree":"Diploma",
+                    "institution":"Diploma – ECE from Govt.Polytechnic College IN 2013"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SSC From S.K.G Oriental High School Board Of SSC IN 2010"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        },
+        {
+            "basicInformation": {
+                "name" : "Sana Sudha",
+                "role" : "Multi skill Trainer",
+                "email" : "sudha.s@apssdc.in",
+                "mobile": "+91 7036605702"
+            },
+            "education":[
+                {
+                    "degree":"B-Tech (ECE)",
+                    "institution": "VBIT Proddatur, Kadapa"
+                },
+                {
+                    "degree":"Diploma(Computer engineering)",
+                    "institution":"VBIT Proddatur, Kadapa"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "Sharada high school"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        }
+    ]
+}
